@@ -7,6 +7,19 @@
 - 📫 How to reach me: haleaoztekin@gmail.com 
 
 ### Connect with me:
-[![This is an image](https://sguru.org/wp-content/uploads/2018/02/logo.ico)](https://www.linkedin.com/in/haleafraoztekin/)
+
+[<img align="left" alt="haleafraoztekin | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/haleafraoztekin/)
+
+<br />
+<br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haleafraoztekin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haleafraoztekin&show_icons=true&theme=tokyonight)
+
+
 
 
