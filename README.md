@@ -7,6 +7,6 @@
 - 📫 How to reach me: haleaoztekin@gmail.com 
 
 ### Connect with me:
-https://www.linkedin.com/in/haleafraoztekin/
+[![This is an image](https://sguru.org/wp-content/uploads/2018/02/logo.ico)](https://www.linkedin.com/in/haleafraoztekin/)
 
 
