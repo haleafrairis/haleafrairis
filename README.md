@@ -6,6 +6,7 @@
 - 💬 Ask me about calculus, differential equations, linear algebra, etc. 
 - 📫 How to reach me: haleaoztekin@gmail.com 
 
-# Connect with me:
+### Connect with me:
+https://www.linkedin.com/in/haleafraoztekin/
 
 
