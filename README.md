@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="haleafraoztekin | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/haleafraoztekin/)
+[<img align="left" alt="haleafrairis | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/haleafrairis/)
 
 <br />
 <br />
